@@ -18,7 +18,7 @@ date = "2017-10-08"
 <p><a style="cursor:hand;" target="_blank" href="http://x-camp.tk/post/group1/liagnchenxi-resume/">我的简历-梁晨曦</a></p>
 <p><a style="cursor:hand;" target="_blank" href="http://x-camp.tk/post/group1/liangchenxi-experience/">第一课学员心得-梁晨曦</a></p>
 
-最后，我按照老师的要求，完成了智慧外贸项目独特价值、客户画像、用户电子书的整理工作，用工具上传到github指点位置上了。
+
 
 
 ### 我的反馈
