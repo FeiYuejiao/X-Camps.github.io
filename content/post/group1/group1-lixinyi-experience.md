@@ -13,9 +13,8 @@ date = "2017-10-07"
 ---
 ## __作业情况__
 
-href="http://zjq-x-camp.tk">http://zjq-x-camp.tk</a></p>
-<p><a style="cursor:hand;" target="_blank" href="http://x-camp.tk/post/group1/group1-lixinyi-resume/">我的简历-李昕翌</a></p>
-<p><a style="cursor:hand;" target="_blank" </br></br> href="http://x-camp.tk/post/group1/group1-lixinyi-experience/">第一课学员心得-张建琦</a></p> </br>
+href="http://x-camp.tk/post/group1/group1-lixinyi-resume/">我的简历-李昕翌</a></p>
+<p><a style="cursor:hand;" target="_blank" </br></br> href="http://x-camp.tk/post/group1/group1-lixinyi-experience/">第一课学员心得-李昕翌</a></p> </br>
 
 ---
 
