@@ -2,7 +2,7 @@
 title = "Hugo+Github+Netlify+freenom"
 draft = "false"
 description = "整套IT技术复盘"
-categories = ["lession2"]
+categories = ["experience"]
 tag = ["fupan","IT"]
 date = "2017-10-13"
 +++
