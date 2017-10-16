@@ -1,7 +1,7 @@
 +++
-title = "Hugo+Github+Netlify+freenom"
+title = "group3-姜绍龙-lesson2分享"
 draft = "false"
-description = "整套IT技术复盘"
+description = "Hugo+Github+Netlify+freenom整套IT技术复盘"
 categories = ["experience"]
 tag = ["fupan","IT"]
 date = "2017-10-13"
