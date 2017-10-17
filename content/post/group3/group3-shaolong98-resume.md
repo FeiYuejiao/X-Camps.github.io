@@ -4,6 +4,7 @@ draft = "false"
 description = "姜绍龙，1998-2005年就读于清华自动化系，硕士学位，超过10年的“IT-移动互联网”领域工作及多年创业经验。。。"
 categories = ["resume"]
 date = "2017-10-07"
+tags =["group3"]
 +++
 
 <img src="/post/group3/head-shaolong.png" width="200" align="right" hspace="20" vspace="0" />

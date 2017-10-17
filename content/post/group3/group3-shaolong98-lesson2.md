@@ -3,8 +3,8 @@ title = "group3-姜绍龙-lesson2分享"
 draft = "false"
 description = "Hugo+Github+Netlify+freenom整套IT技术复盘"
 categories = ["experience"]
-tag = ["fupan","IT"]
 date = "2017-10-13"
+tags =["group3"]
 +++
 
 ### 概述
@@ -64,12 +64,12 @@ git的使用是这一系列技术当中，相对来说难度最大的环节，�
 		git config --global user.email "you@example.com"<br/>
 		git config --global user.name "Your Name"<br/>
 		注：执行完上述命令后，可能还会弹出登录github账号密码的提示框，你正常登录就行了。<br/>
-		
+
 	git remote add origin https://github.com/<账号名>/myWeb.git  
 		//这一步是将本地的库关联到你在github上新建的库，这个url你在建库的时候copy过。<br/>
 	git push origin master  
 		//将准备提交的所有文件传送到github关联库中（master代表主分支，不解释）<br/>
-	
+
 5，然后就是等。。。执行完毕后，看提示100%上传了就到网址："https://github.com/<账号名>/myWeb" 里看一眼，正常来说，你本地网站上的内容已经上传成功。<br/>
 
 当然，使用git的过程经常会由于一些不确定因素导致各种问题和失败，除了考研你的智慧之外，我总结如下：
@@ -114,7 +114,7 @@ git的使用是这一系列技术当中，相对来说难度最大的环节，�
 	第三条第1步 直接跳到 第四条第2步。
 
 但是，第四条第2步中要输入的几个NS服务器当然不能填DNSPOD的（那是教程的例子），而应该填netlify的，怎么获取这几个服务器呢？别急，应该恭喜一下，现在至少你已经拥有了一个自己的域名gebilaowang.tk！跟着我往下走。。。
-	
+
 3，打开www.netlify.com，刚才登陆过，所以你能在这个页面看到你刚搭建成功的那个网站 https://xxxx-xxxx-xxxxx.netlify.com <br/>
 4，点击它，进入这个网站的配置页面，会看到类似下图所示：<br/>
 <img src="/post/published_deploy2.png"/><br/>
@@ -139,9 +139,8 @@ dns4.p08.nsone.net<br/>
 	git add .
 	git commit -m‘xxxxxx’ //引号里面就是个备注，随便填点什么，便于查看提交历史
 	git push origin master
-	
+
 #####  齐活儿！维护一个自己的blog 就这么简单！再不懂就问度娘和谷哥，一直写到大半夜，哥也累了。。。
 
 * * *
 ## 结束语：桃李不言，下自成蹊，基因传播，子孙满堂。。。别问我是谁，我是雷锋~
-
