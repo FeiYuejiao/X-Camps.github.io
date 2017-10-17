@@ -4,7 +4,7 @@ draft = "false"
 description = "个人学习心得-创业第一课"
 categories = ["experience"]
 date = "2017-10-08"
-tags = "group1"
+group1 ="tags"
 +++
 
 ### 上课情况

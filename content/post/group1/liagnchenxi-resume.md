@@ -4,7 +4,7 @@ draft = "false"
 description = "梁晨曦"
 categories = ["resume"]
 date = "2017-10-08"
-tags = "group1"
+group1 ="tags"
 +++
 
 ## 梁晨曦
