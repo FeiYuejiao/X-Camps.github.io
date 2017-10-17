@@ -1,4 +1,11 @@
-+++ title = "group3-邓伟-Lesson2" draft = "false" description = "x-camp加速营第二课" tags = ["x-camp", "Lesson2"] categories = ["experience"] date = "2017-10-13" +++
++++
+title = "group3-邓伟-Lesson2"
+draft = "false"
+description = "x-camp加速营第二课"
+categories = ["experience"]
+date = "2017-10-13"
+tags =["group3"]
++++
 
 ### 第二课上课体会
 

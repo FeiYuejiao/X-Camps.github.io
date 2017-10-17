@@ -2,10 +2,9 @@
 title = "group3-邓伟-Lesson1心得"
 draft = "false"
 description = "x-camp加速营第一课"
-tags = ["x-camp", "Lesson1"]
 categories = ["experience"]
 date = "2017-10-03"
-banner = "/lesson1-1.png"
+tags =["group3"]
 +++
 
 
