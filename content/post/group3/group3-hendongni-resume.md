@@ -4,6 +4,7 @@ draft = "false"
 description = "梁婧，2012-2014年就读于清华经济管理学员，MBA，拥有10年以上的媒体、人力资源和互联网在线教育的跨界经验。。。"
 categories = ["resume"]
 date = "2017-10-10"
+tags =["group3"]
 +++
 
 <img src="/post/group3/head_liangjing.png" width="200" align="right" hspace="20" vspace="0" />

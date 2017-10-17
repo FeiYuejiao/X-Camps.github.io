@@ -4,6 +4,7 @@ draft = "false"
 description = "郭欣然"
 categories = ["resume"]
 date = "2017-10-10"
+tags =["group3"]
 +++
 
 <img src="/post/group3/GXR-pic.jpg" width="200" align="right" hspace="20" vspace="0" />
