@@ -4,6 +4,7 @@ draft = "false"
 description = "徐岗"
 categories = ["resume"]
 date = "2017-10-10"
+tags =["group2"]
 +++
 
 ## 徐岗
