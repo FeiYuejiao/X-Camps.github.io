@@ -4,7 +4,7 @@ draft = "false"
 description = "程家淦"
 categories = ["resume"]
 date = "2017-10-10"
-group1 = "tags"
+tags =["group1"]
 +++
 
 程家淦-活动社交-连接APP创始人

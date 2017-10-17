@@ -4,7 +4,7 @@ draft = "false"
 description = "上课情况，作业情况，我的反馈"
 categories = ["experience"]
 date = "2017-10-07"
-group1 = "tags"
+tags =["group1"]
 +++
 
 ---

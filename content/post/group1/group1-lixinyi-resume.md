@@ -4,7 +4,7 @@ draft = "false"
 description = "李欣翌"
 categories = ["resume"]
 date = "2017-10-10"
-group1 = "tags"
+tags =["group1"]
 +++
 
 ## **李昕翌**  
