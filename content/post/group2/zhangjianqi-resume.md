@@ -1,7 +1,7 @@
 +++
 title = "group2-张建琦-学员简历"
 draft = "false"
-description = "张建琦"
+description = "教育背景，自我总结，工作履历"
 categories = ["resume"]
 date = "2017-10-08"
 +++
