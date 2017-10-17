@@ -3,7 +3,7 @@ title = "group3-梁婧-Lesson2-IT复盘"
 draft = "false"
 description = "IT复盘+上课心得+出书心得"
 categories = ["experience"]
-date = "2017-10-10"
+date = "2017-10-17"
 +++
 
 ### 技术复盘
