@@ -1,10 +1,10 @@
 +++
 title = "group1-程家淦-Lesson1心得"
 draft = "false"
-description = "个人学习心得-创业第一课"
+description = "上课情况，作业情况，我的反馈"
 categories = ["experience"]
 date = "2017-10-10"
-tags = "group1"
+group1 = "tags"
 +++
 
 ### 上课情况

@@ -1,10 +1,10 @@
 +++
 title = "group1-李昕翌-学员简历"
 draft = "false"
-description = "李昕翌"
+description = "李欣翌"
 categories = ["resume"]
 date = "2017-10-10"
-tags = "group1"
+group1 = "tags"
 +++
 
 ## **李昕翌**  
