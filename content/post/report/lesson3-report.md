@@ -7,8 +7,7 @@ banner = "/logo.png"
 +++
 
 
-###
-创业者们
+### 创业者们
 
 
 惊呆了
@@ -49,23 +48,37 @@ x-amp不是一个输入的训练营，而是一个实战，拍砖的输出过程
 
 
 <img src="/atom_pitcure/l3-2.png" width="600">
+
+
 陶老师对大家的作业情况，进行认真的分析和评价
 
 
 小组作业的汇报
+
+
 <img src="/atom_pitcure/l3-3.png" width="600">
+
+
 <img src="/atom_pitcure/l3-4.png" width="600">
 
 
 激动的时刻来临，真人真事在一个星期写出的一本书
+
+
 <img src="/atom_pitcure/l3-5.png" width="600">
 
 
 分享出书的过程
+
+
 <img src="/atom_pitcure/l3-6.png" width="600">
 
+
 其中第一小组：受到老师狠狠的拍砖，不过也是成长较大的一个过程
+
+
 <img src="/atom_pitcure/l3-7.png" width="600">
+
 
 看到每个小组的精彩分享，每个小组的手里面的分享，小编的第一个行动，便是：我也想写书！
 
