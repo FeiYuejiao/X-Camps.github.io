@@ -2,7 +2,8 @@
 title = "刘文涛的第一次作业"
 date = "2017-10-09"
 description = "青年社区文涛的介绍"
-
+categories = ["experience"]
+tags =["group4"]
 +++
 
 ## 1.个人简历
