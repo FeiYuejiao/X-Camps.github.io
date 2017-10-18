@@ -2,9 +2,9 @@
 title = "group3-邓伟-学员简历"
 draft = "false"
 description = "Dengwei98"
-tags = ["resume", "x-camp"]
 categories = ["resume"]
 date = "2017-10-03"
+tags =["group3"]
 +++
 
 
