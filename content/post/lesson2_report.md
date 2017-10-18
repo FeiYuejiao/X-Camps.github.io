@@ -2,7 +2,7 @@
 title = "x-camp加速营第二次课堂报道-创业好三观"
 description = "快来碗里来"
 categories = ["report"]
-date = "2017-10-11"
+date ="2017-10-11"
 banner = "/logo.png"
 +++
 
