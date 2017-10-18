@@ -1,5 +1,5 @@
 +++
-title = "x-camp加速营第二次课堂报道-团队基因"
+title = "x-camp加速营第三次课堂报道-团队基因"
 description = "看看发生了什么？"
 categories = ["report"]
 date = "2017-10-18"
