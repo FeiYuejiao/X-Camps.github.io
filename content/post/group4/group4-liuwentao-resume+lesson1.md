@@ -1,5 +1,5 @@
 +++
-title = "刘文涛的第一次作业"
+title = "group3-刘文涛简历+第一次作业"
 date = "2017-10-09"
 description = "青年社区文涛的介绍"
 categories = ["experience"]

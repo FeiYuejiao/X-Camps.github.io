@@ -1,5 +1,5 @@
 +++
-title = "汪亮的第二次作业"
+title = "group4-汪亮-第二次作业"
 date = "2017-10-18"
 description = "技术方面与写书方面的感悟！"
 tags =["group4"]

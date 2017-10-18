@@ -1,5 +1,5 @@
 +++
-title = "刘文涛的第二次作业"
+title = "group4-刘文涛-第二次作业"
 date = "2017-10-18"
 description = "简单来说，git是一个管理你代码历史记录的工具！"
 tags =["group4"]
