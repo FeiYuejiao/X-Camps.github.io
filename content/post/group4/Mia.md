@@ -2,7 +2,8 @@
 title = "张淼的第一次作业"
 date = "2017-10-09"
 description = "版权张淼的介绍"
-
+categories = ["experience"]
+tags =["group4"]
 +++
 
 ## 1.个人简历
