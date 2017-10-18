@@ -9,46 +9,90 @@ banner = "/logo.png"
 
 ###
 创业者们
+
+
 惊呆了
+
+
 惊呆了
+
+
 真的惊呆了
+
+
 到底发生了什么？
+
+
 上个星期老师布置的作业：
+
+
 一个星期一本书+五年计划+优势测试+博文反馈+团队作业
+
+
 这是一个挑战度极大，压力极大的作业，作为常人思考，这真的挑战太大
+
+
 各位创业者们，每天都要忙业务，出差，和客户交流......时间紧迫，更何况如一本书？
+
+
 然而，知道今天来到现场，看到大家的作品，真的惊呆了！
-<imgsrc="/atom_pitcure/l3-1.png" width="600">
+
+
+
+<img src="/atom_pitcure/l3-1.png" width="600">
+
 
 其中尤为突出的三组创业者们（右3）的书，深深被他们的创业的精神所打动，有的在极度疲惫的条件下，半夜2点仍然坚持出色的完成了任务，实在令人敬佩，看到他们的作品也是挺感动的，原来比你优秀的人真的比你更加努力！
 
+
 x-amp不是一个输入的训练营，而是一个实战，拍砖的输出过程，每个成员都是以输出为主，下面就来看看，每个小组的作业汇报情况，看看他们的输出情况：
 
-<imgsrc="/atom_pitcure/l3-2.png" width="600">
+
+<img src="/atom_pitcure/l3-2.png" width="600">
 陶老师对大家的作业情况，进行认真的分析和评价
+
+
 小组作业的汇报
-<imgsrc="/atom_pitcure/l3-3.png" width="600">
-<imgsrc="/atom_pitcure/l3-4.png" width="600">
+<img src="/atom_pitcure/l3-3.png" width="600">
+<img src="/atom_pitcure/l3-4.png" width="600">
+
+
 激动的时刻来临，真人真事在一个星期写出的一本书
-<imgsrc="/atom_pitcure/l3-5.png" width="600">
+<img src="/atom_pitcure/l3-5.png" width="600">
+
+
 分享出书的过程
-<imgsrc="/atom_pitcure/l3-6.png" width="600">
+<img src="/atom_pitcure/l3-6.png" width="600">
 
 其中第一小组：受到老师狠狠的拍砖，不过也是成长较大的一个过程
-<imgsrc="/atom_pitcure/l3-7.png" width="600">
+<img src="/atom_pitcure/l3-7.png" width="600">
 
 看到每个小组的精彩分享，每个小组的手里面的分享，小编的第一个行动，便是：我也想写书！
 
-同时殷老师，给大家分享一节深刻的课，总感觉由种被颠覆的状态：
-比如：最好的投资人不是天使投资人，而是你的第一个顾客！
-比如:好的创业，不是有钱，有投资人，而最重要的团队基因！
-<imgsrc="/atom_pitcure/l3-8.png" width="600">
 
-<imgsrc="/atom_pitcure/l3-9.png" width="600">
+同时殷老师，给大家分享一节深刻的课，总感觉由种被颠覆的状态：
+
+
+比如：最好的投资人不是天使投资人，而是你的第一个顾客！
+
+
+比如:好的创业，不是有钱，有投资人，而最重要的团队基因！
+
+
+<img src="/atom_pitcure/l3-8.png" width="600">
+
+
+<img src="/atom_pitcure/l3-9.png" width="600">
+
 
 小编我也是被殷老师的一句话所打动：你要用你的生命对待你的事业，哪怕作业也是以一样！
 
+
 最后老师还召集每个团队，组长来一起讨论和反馈，让下次课堂更加精彩，做得更高效和完美！
-<imgsrc="/atom_pitcure/l3-10.jpg" width="600">
+
+
+<img src="/atom_pitcure/l3-10.jpg" width="600">
+
+
 期待x-camp下一次颠覆性的课堂吧！
 欢迎大家关注x-camp的精彩分享！
