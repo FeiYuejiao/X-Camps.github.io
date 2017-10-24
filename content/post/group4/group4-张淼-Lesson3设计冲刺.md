@@ -1,5 +1,5 @@
 +++
-title = "group4-张淼-Lesson4设计冲刺读后感"
+title = "group4-张淼-Lesson3设计冲刺读书笔记"
 draft = "false"
 description = "《设计冲刺》读后感"
 categories = ["experience"]
