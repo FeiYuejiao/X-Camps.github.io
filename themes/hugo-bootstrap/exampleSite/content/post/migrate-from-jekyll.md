@@ -134,7 +134,7 @@ is written as this Hugo shortcode:
 ### Usage
 I simply changed:
 
-  
+
 
 to this (this example uses a slightly extended version named `fig`, different than the built-in `figure`):
 
