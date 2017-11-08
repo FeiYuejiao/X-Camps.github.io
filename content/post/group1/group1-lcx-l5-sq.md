@@ -1,7 +1,7 @@
 +++
 title = "group1-梁晨曦-怎样从无到有建立一个产品型社群"
 draft = "false"
-description = "社群"
+description = "运营社群心得"
 categories = ["experience"]
 date = "2017-11-07"
 tags =["group1"]

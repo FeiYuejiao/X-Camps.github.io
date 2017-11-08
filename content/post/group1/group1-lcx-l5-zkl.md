@@ -1,7 +1,7 @@
 +++
 title = "group1-梁晨曦-掌控力"
 draft = "false"
-description = "掌控力"
+description = "《掌控力》读后感"
 categories = ["experience"]
 date = "2017-11-07"
 tags =["group1"]

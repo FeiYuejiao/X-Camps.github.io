@@ -1,7 +1,7 @@
 +++
 title = "group1-梁靖-lesson5-心得"
 draft = "false"
-description = "线上社群运营心得"
+description = "运营社群心得"
 categories = ["experience"]
 date = "2017-11-07"
 tags =["group1"]

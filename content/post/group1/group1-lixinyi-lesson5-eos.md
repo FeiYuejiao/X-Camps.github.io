@@ -1,7 +1,7 @@
 +++
 title = "group1-李昕翌-Lesson5-掌控力读后感"
 draft = "false"
-description = "心得分享"
+description = "掌控力读后感"
 categories = ["experience"]
 date = "2017-11-07"
 tags =["group1"]
