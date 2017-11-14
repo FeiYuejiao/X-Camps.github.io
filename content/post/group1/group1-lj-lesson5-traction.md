@@ -3,7 +3,7 @@ title = "group1-梁靖-lesson5-《掌控力》读后感"
 draft = "false"
 description = "《掌控力》读后感"
 categories = ["experience"]
-date = "2017-11-7"
+date = "2017-11-07"
 tags =["group1"]
 +++
 

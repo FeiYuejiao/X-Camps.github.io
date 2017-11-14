@@ -1,7 +1,7 @@
 +++
 title = "group2-徐岗-Lesson5-运营粉丝社群"
 draft = "false"
-description = "心得分享"
+description = "运营社群心得"
 categories = ["experience"]
 date = "2017-11-07"
 tags =["group2"]

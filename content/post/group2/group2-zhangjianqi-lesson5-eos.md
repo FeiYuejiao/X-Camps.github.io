@@ -1,7 +1,7 @@
 +++
 title = "group2-张建琦-Lesson5-掌控力"
 draft = "false"
-description = "读后感"
+description = "《掌控力》读后感"
 categories = ["experience"]
 date = "2017-11-07"
 tags =["group2"]

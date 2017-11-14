@@ -1,9 +1,9 @@
 +++
 title = "group3-邓伟-Lesson5-社群部落"
 draft = "false"
-description = "x-camp加速营第五课"
+description = "运营社群心得"
 categories = ["experience"]
-date = "2017-11-7"
+date = "2017-11-07"
 tags =["group3"]
 +++
 
