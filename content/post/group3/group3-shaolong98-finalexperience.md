@@ -1,5 +1,5 @@
 ﻿+++
-title = "group3-姜绍龙-强壮自己"
+title = "group3-姜绍龙-lesson7-结业心得-强壮自己"
 draft = "false"
 description = "加速营学习心得"
 categories = ["experience"]
